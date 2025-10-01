@@ -1,6 +1,8 @@
 # このファイルについて
 
 このリポジトリは、マナビジョンのタイピング練習サイト（[リンク](https://manabi-gakushu.benesse.ne.jp/gakushu/typing/nihongonyuryoku.html)）を自動化するためのスクリプトやツールをまとめたものです。
+
+## リンク 
 [リリース](https://github.com/rasutoma/manabi-gakken_typing_bot/releases/tag/typing)
 
 ## 注意事項
