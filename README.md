@@ -17,7 +17,7 @@
 1. 必要な環境（Pythonなど）をセットアップしてください。
 2. スクリプトをダウンロードし、READMEや各種ファイルの説明に従って実行してください。
 3. 自動化ツールの仕様や使い方は各スクリプトのコメントをご参照ください。
-4. Google Chrome の PC 版をご使用ください。
+4. [Google Chrome](https://www.google.com/chrome/) の PC 版をご使用ください。
 5. [ChromeDriver](https://chromedriver.chromium.org/downloads)をダウンロードしてください。
 
 ## 依存ライブラリ
